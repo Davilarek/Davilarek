@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - I'm currently learning C++ and Rust
 - I use VSCodium, Visual Studio 2022 and Intellij
 - I love open source software
+
+### 🇵🇱
