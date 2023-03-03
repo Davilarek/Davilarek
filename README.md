@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Davilarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davilarek&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+- I know JS, C#, Lua, C++, GDScript and Java
+- I'm not a good designer
+- I'm currently learning C++ and Rust
+- I use VSCodium, Visual Studio 2022 and Intellij
+- I love open source software
